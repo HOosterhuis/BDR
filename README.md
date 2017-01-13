@@ -1,1 +1,1 @@
-# BDR
+# Spamfilter BDR exercise
